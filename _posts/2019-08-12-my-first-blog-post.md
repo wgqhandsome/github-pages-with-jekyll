@@ -1,1 +1,4 @@
-Remember, you can always edit it later.
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
